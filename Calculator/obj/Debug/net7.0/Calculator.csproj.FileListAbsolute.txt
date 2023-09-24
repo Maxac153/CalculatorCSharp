@@ -1,0 +1,14 @@
+/home/turgor/VisualStudioCode/CalculatorCSharp/Calculator/bin/Debug/net7.0/Calculator
+/home/turgor/VisualStudioCode/CalculatorCSharp/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/home/turgor/VisualStudioCode/CalculatorCSharp/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/home/turgor/VisualStudioCode/CalculatorCSharp/Calculator/bin/Debug/net7.0/Calculator.dll
+/home/turgor/VisualStudioCode/CalculatorCSharp/Calculator/bin/Debug/net7.0/Calculator.pdb
+/home/turgor/VisualStudioCode/CalculatorCSharp/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/turgor/VisualStudioCode/CalculatorCSharp/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/home/turgor/VisualStudioCode/CalculatorCSharp/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/home/turgor/VisualStudioCode/CalculatorCSharp/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/home/turgor/VisualStudioCode/CalculatorCSharp/Calculator/obj/Debug/net7.0/Calculator.dll
+/home/turgor/VisualStudioCode/CalculatorCSharp/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/home/turgor/VisualStudioCode/CalculatorCSharp/Calculator/obj/Debug/net7.0/Calculator.pdb
+/home/turgor/VisualStudioCode/CalculatorCSharp/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/home/turgor/VisualStudioCode/CalculatorCSharp/Calculator/obj/Debug/net7.0/ref/Calculator.dll
