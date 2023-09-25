@@ -19,8 +19,6 @@
                 case '-':
                     result = number_one - number_two;
                     break;
-                case 'q':
-                    break;
                 default:
                     Console.WriteLine("Error: Invalid operator!!!");
                     break;
