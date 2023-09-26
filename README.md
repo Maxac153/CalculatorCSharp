@@ -8,6 +8,7 @@
 
 - C#
 - MSTest
+- XUnit
 - Draw.io
 
 ## Calculator
@@ -20,7 +21,7 @@
 Для запуска тестов введите следующие команду в терминале:<br>
 
 <b>cd Calculator</b><br>
-<b>dotnet run TestsCalculator.cs</b><br>
+<b>dotnet test</b><br>
 
 ## Mind Map (Тест-план для личных сообщений ВКонтакте)
 
