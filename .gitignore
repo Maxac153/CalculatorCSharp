@@ -1,3 +1,4 @@
 *.dtmp
 *.bkp
-/bin/Debug/
+/bin
+/obj
